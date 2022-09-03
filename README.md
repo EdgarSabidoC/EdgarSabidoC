@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! 👋 🪐
 
 ![](https://komarev.com/ghpvc/?username=EdgarSabidoC&color=blue&style=plastic&label=PROFILE+VIEWS)
 

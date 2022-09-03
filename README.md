@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=EdgarSabidoC&color=blue&style=plastic&label=PROFILE+VIEWS)
+
 <!--
 **EdgarSabidoC/EdgarSabidoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

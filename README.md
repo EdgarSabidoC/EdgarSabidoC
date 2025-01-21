@@ -2,15 +2,15 @@
 
 ![](https://komarev.com/ghpvc/?username=EdgarSabidoC&color=blue&style=plastic&label=Visitors)
 
-## Languages: 
+## Languages
 Java, PHP, SQL, HTML/CSS, Python, JavaScript
-## Databases:
+## Databases
 MySQL, MariaDB, MongoDB, and PostgreSQL
-## Frameworks:
+## Frameworks
 FastAPI, Bootstrap, Express, and Angular
-## Operative Systems:
+## Operative Systems
 Linux and Windows
-## Other tools and techonologies:
+## Other tools and techonologies
 Godot, Visual Studio, Visual Studio Code, NodeJS, Git, and Github
 
 🌱 I’m currently learning Godot, Unity and C#/.NET

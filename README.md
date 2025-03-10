@@ -1,7 +1,5 @@
 # Hello there! 👋 🪐
 
-![](https://komarev.com/ghpvc/?username=EdgarSabidoC&color=blue&style=plastic&label=Visitors)
-
 ## Languages
 Java, PHP, SQL, HTML/CSS, C/C++, Julia, Go, Python, JavaScript
 ## Databases

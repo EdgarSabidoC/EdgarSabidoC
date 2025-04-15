@@ -1,7 +1,7 @@
 # Hello there! 👋 🪐
 
 ## Languages
-Java, PHP, SQL, HTML/CSS, C/C++, Julia, Go, Python, JavaScript
+Java, PHP, SQL, HTML/CSS, C/C++, C#, Go, Python, JavaScript
 ## Databases
 MySQL, MariaDB, MongoDB, and PostgreSQL
 ## Frameworks

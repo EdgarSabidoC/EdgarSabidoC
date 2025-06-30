@@ -11,7 +11,7 @@ Linux and Windows
 ## Other tools and techonologies
 Godot, Visual Studio, Visual Studio Code, NodeJS, Git, and Github
 
-🌱 I’m currently learning Godot, Unity and C#/.NET
+🌱 I’m currently learning Godot and C#/.NET
 <!--
 **EdgarSabidoC/EdgarSabidoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

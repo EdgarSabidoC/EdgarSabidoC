@@ -3,7 +3,7 @@
 ## Languages
 Java, PHP, SQL, HTML/CSS, C/C++, C#, Go, Python, JavaScript
 ## Databases
-MySQL, MariaDB, MongoDB, and PostgreSQL
+MySQL, MariaDB, MongoDB, Neo4j and PostgreSQL
 ## Frameworks
 FastAPI, Bootstrap, Express, and Angular
 ## Operative Systems

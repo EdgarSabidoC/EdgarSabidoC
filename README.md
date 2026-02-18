@@ -1,17 +1,17 @@
 # Hello there! 👋 🪐
 
 ## Languages
-Java, PHP, SQL, HTML/CSS, C/C++, C#, Go, Python, JavaScript
+Java, PHP, SQL, HTML/CSS, Python, JavaScript
 ## Databases
-MySQL, MariaDB, MongoDB, Neo4j and PostgreSQL
+MySQL, MariaDB, MongoDB, Neo4j, PostgreSQL
 ## Frameworks
-FastAPI, Bootstrap, Express, and Angular
+FastAPI, Bootstrap, Express, Angular
 ## Operative Systems
 Linux and Windows
 ## Other tools and techonologies
-Godot, Visual Studio, Visual Studio Code, NodeJS, Git, and Github
+Godot, Visual Studio, Visual Studio Code, NodeJS, Git, Github
 
-🌱 I’m currently learning Godot and C#/.NET
+🌱 I’m currently learning data engineering with Snowflake, Power BI, Azure Cloud and Python.
 <!--
 **EdgarSabidoC/EdgarSabidoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

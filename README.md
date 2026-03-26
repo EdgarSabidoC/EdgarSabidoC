@@ -11,7 +11,7 @@ Linux and Windows
 ## Other tools and techonologies
 Godot, Visual Studio, Visual Studio Code, NodeJS, Git, Github
 
-🌱 I’m currently learning cybersecurity.
+🌱 I’m currently learning cybersecurity and Rust.
 <!--
 **EdgarSabidoC/EdgarSabidoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
